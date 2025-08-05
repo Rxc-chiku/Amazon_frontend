@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(../pictures/White-Amazon-Logo-Background-PNG-Image.png);
+    background-image: url(White-Amazon-Logo-Background-PNG-Image.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -141,7 +141,7 @@ span {
 
 /* hero-section */
 .hero-section {
-    background-image: url(../pictures/hero-pagr\ 01.png);
+    background-image: url(hero-pagr\ 01.png);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -315,4 +315,5 @@ ul a:hover {
 
 .copyright {
     padding-top: 5px;
+
 }
